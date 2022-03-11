@@ -13,4 +13,5 @@ html, body {
 
 .lift-cincy-landing-logo {
   width: 144px;
+  transform: translateX(-12px);
 }
